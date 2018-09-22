@@ -1,0 +1,33 @@
+_repo: The-Rogerenes-some-hitherto-unpublished-annals-belonging-to-the-colonial-history-of-Connectic__55651
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Williams, Anna B. (Anna Bolles)
+    alias: Williams, Annie Bolles
+    birthdate: 1840
+    gutenberg_agent_id: '48440'
+    url: http://www.gutenberg.org/2009/agents/48440
+    wikipedia: http://www.gutenberg.org/ebooks/author/47210
+  - agent_name: Bolles, John R. (John Rogers)
+    alias: Bolles, John Rogers
+    birthdate: 1810
+    deathdate: 1895
+    gutenberg_agent_id: '3683'
+    url: http://www.gutenberg.org/2009/agents/3683
+description: ''
+gutenberg_issued: '2017-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55651'
+  lccn: '04022000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rogerenes -- History'
+- !lcc 'F001'
+- GITenberg
+title: 'The Rogerenes: some hitherto unpublished annals belonging to the colonial
+  history of Connecticut'
+url: http://www.gutenberg.org/ebooks/55651
